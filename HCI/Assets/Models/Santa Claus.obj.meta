@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: efbc42c85c783464daca0f68d9eeac8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group_barbes
+    100002: group_boots
+    100004: group_boots_semelle
+    100006: group_Ceinturon
+    100008: group_ceinturon_boucle
+    100010: group_Default
+    100012: group_eyes
+    100014: group_eyes_little
+    100016: group_main
+    100018: group_man
+    100020: group_ongles
+    100022: group_pantalon
+    100024: group_White
+    100026: //RootNode
+    400000: group_barbes
+    400002: group_boots
+    400004: group_boots_semelle
+    400006: group_Ceinturon
+    400008: group_ceinturon_boucle
+    400010: group_Default
+    400012: group_eyes
+    400014: group_eyes_little
+    400016: group_main
+    400018: group_man
+    400020: group_ongles
+    400022: group_pantalon
+    400024: group_White
+    400026: //RootNode
+    2100000: group_barbesMat
+    2100002: group_bootsMat
+    2100004: group_boots_semelleMat
+    2100006: group_CeinturonMat
+    2100008: group_ceinturon_boucleMat
+    2100010: group_DefaultMat
+    2100012: group_eyesMat
+    2100014: group_eyes_littleMat
+    2100016: group_mainMat
+    2100018: group_manMat
+    2100020: group_onglesMat
+    2100022: group_pantalonMat
+    2100024: group_WhiteMat
+    2300000: group_barbes
+    2300002: group_boots
+    2300004: group_boots_semelle
+    2300006: group_Ceinturon
+    2300008: group_ceinturon_boucle
+    2300010: group_Default
+    2300012: group_eyes
+    2300014: group_eyes_little
+    2300016: group_main
+    2300018: group_man
+    2300020: group_ongles
+    2300022: group_pantalon
+    2300024: group_White
+    3300000: group_barbes
+    3300002: group_boots
+    3300004: group_boots_semelle
+    3300006: group_Ceinturon
+    3300008: group_ceinturon_boucle
+    3300010: group_Default
+    3300012: group_eyes
+    3300014: group_eyes_little
+    3300016: group_main
+    3300018: group_man
+    3300020: group_ongles
+    3300022: group_pantalon
+    3300024: group_White
+    4300000: group_barbes
+    4300002: group_boots
+    4300004: group_boots_semelle
+    4300006: group_Ceinturon
+    4300008: group_ceinturon_boucle
+    4300010: group_Default
+    4300012: group_eyes
+    4300014: group_eyes_little
+    4300016: group_main
+    4300018: group_man
+    4300020: group_ongles
+    4300022: group_pantalon
+    4300024: group_White
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Santa Claus(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_barbes
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_boots
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_boots_semelle
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_Ceinturon
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_ceinturon_boucle
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_Default
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_eyes
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_eyes_little
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_main
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_man
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_ongles
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_pantalon
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group_White
+      parentName: Santa Claus(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
